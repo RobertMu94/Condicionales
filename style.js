@@ -11,6 +11,8 @@ if(respuesta === "si" ){
 }
 */
 
+
+
 /**Ejercicio 2 */
 
 /**let numero = prompt("Ingrese numero");
